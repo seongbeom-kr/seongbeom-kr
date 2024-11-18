@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+<div align="center">
+  <img width="800px" src="(https://github.com/user-attachments/assets/9d1bb302-8a62-412d-929f-fe6cbde11812)"
+ />
+  <img src="https://github-readme-stats.vercel.app/api?username=seongbeom&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-nary&layout=compact" />
+</div>
 <!--
 **seongbeom-kr/seongbeom-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
